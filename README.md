@@ -1,6 +1,6 @@
-###Visual Studio Anti-Debug
+### Visual Studio Anti-Debug
 
-######Minor exploit in order to disable process debugging with the Visual Studio IDE
+###### Minor exploit in order to disable process debugging with the Visual Studio IDE
 
 This only works on VS, WinDbg and DBX are not affected by this, but you can always prevent those by fully disabling via process checks.
 
